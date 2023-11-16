@@ -19,7 +19,7 @@ A binary classification problem for car insurance policy claim based on comprehe
 
 ## Data
 - The dataset contains information related to car insurance policies, including features such as policy tenure, vehicle specifications, ploicy holder age and historical claim data. The target variable is the claim probability, which the model aims to predict for each policy.
-- The Dataset is available at 
+- The Dataset is available at https://github.com/Shinde-Siddhant/Car-Insurance-Claim-Predictive-Model/tree/main/Datasets
 
 ## Challenges
 - This project faced challenges including handling data imbalance and ensuring the interpretability of the predictive model. Strategies were employed to overcome these challenges and deliver a robust and meaningful solution.
