@@ -11,7 +11,9 @@ A binary classification problem for car insurance policy claim based on comprehe
 
 ## Project Overview
 - The objective of this project is to develop a predictive model for assessing the claim probability for car insurance policies providing insurance companies with valuable insights for better risk assessment and premium determination.
-- The project notebook is available at google colab https://colab.research.google.com/drive/1ThS5qbeXtJEAi_N53ypdy2I5oK1ypiA2
+- The project notebook is available at:
+1) google colab - https://colab.research.google.com/drive/1ThS5qbeXtJEAi_N53ypdy2I5oK1ypiA2
+2) Github drive link - https://github.com/Shinde-Siddhant/Car-Insurance-Claim-Predictive-Model/blob/main/Project%20Notebook/Insurance_Project_11_Shinde_Siddhant.ipynb
 
 ## Problem Statement
 - Develop a predictive model that assesses the claim probability for car insurance policies. The objective would be to understand the factors that influence claim frequency and severity in the period of six months and enable insurance companies to better assess risk and determine appropriate premiums for policyholders.
