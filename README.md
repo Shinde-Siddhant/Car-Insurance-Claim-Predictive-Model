@@ -17,7 +17,7 @@ A binary classification problem for car insurance policy claim based on comprehe
 
 ## Problem Statement
 - Develop a predictive model that assesses the claim probability for car insurance policies. The objective would be to understand the factors that influence claim frequency and severity in the period of six months and enable insurance companies to better assess risk and determine appropriate premiums for policyholders.
-- The problem statement and Data Description is available at
+- The problem statement and Data Description is available at https://github.com/Shinde-Siddhant/Car-Insurance-Claim-Predictive-Model/tree/main/Problem%20Statement%20and%20Data%20Description
 
 ## Data
 - The dataset contains information related to car insurance policies, including features such as policy tenure, vehicle specifications, ploicy holder age and historical claim data. The target variable is the claim probability, which the model aims to predict for each policy.
